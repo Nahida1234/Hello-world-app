@@ -1,0 +1,9 @@
+c:\users\popy\documents\visual studio 2013\Projects\helloworldapp\helloworldapp\bin\Debug\helloworldapp.exe.config
+c:\users\popy\documents\visual studio 2013\Projects\helloworldapp\helloworldapp\bin\Debug\helloworldapp.exe
+c:\users\popy\documents\visual studio 2013\Projects\helloworldapp\helloworldapp\bin\Debug\helloworldapp.pdb
+c:\users\popy\documents\visual studio 2013\Projects\helloworldapp\helloworldapp\obj\Debug\helloworldapp.csprojResolveAssemblyReference.cache
+c:\users\popy\documents\visual studio 2013\Projects\helloworldapp\helloworldapp\obj\Debug\helloworldapp.helloworldForm.resources
+c:\users\popy\documents\visual studio 2013\Projects\helloworldapp\helloworldapp\obj\Debug\helloworldapp.Properties.Resources.resources
+c:\users\popy\documents\visual studio 2013\Projects\helloworldapp\helloworldapp\obj\Debug\helloworldapp.csproj.GenerateResource.Cache
+c:\users\popy\documents\visual studio 2013\Projects\helloworldapp\helloworldapp\obj\Debug\helloworldapp.exe
+c:\users\popy\documents\visual studio 2013\Projects\helloworldapp\helloworldapp\obj\Debug\helloworldapp.pdb
